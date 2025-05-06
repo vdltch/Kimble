@@ -1,0 +1,8 @@
+{
+  "name": "Kimble",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1a901d9f"
+}
